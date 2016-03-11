@@ -1,4 +1,4 @@
-
+/*news*/
 // tabId -> devtool port
 var inspectedTabs = {};
 
